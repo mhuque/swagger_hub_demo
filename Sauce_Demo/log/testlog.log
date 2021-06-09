@@ -1,0 +1,58 @@
+2021-05-20 09:12:11,859 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-20 09:12:13,622 - Sauce Demo -INFO - ********** > User able to enter Username  < ***********
+2021-05-20 09:12:13,716 - Sauce Demo -INFO - ********** > User able to enter password  < ***********
+2021-05-20 09:12:13,783 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-20 09:12:13,836 - Sauce Demo -INFO - ********** > User able to take screenshot and verify the home page  < ***********
+2021-05-20 09:12:14,178 - Sauce Demo -INFO - ********** > User can verify logo  < ***********
+2021-05-20 09:12:14,882 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-20 09:12:16,243 - Sauce Demo -INFO - ********** > User can send Locked out username  < ***********
+2021-05-20 09:12:16,350 - Sauce Demo -INFO - ********** > User can send Locked out password  < ***********
+2021-05-20 09:12:16,422 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-20 09:12:16,442 - Sauce Demo -INFO - ********** > User gets error message and takes screenshot  < ***********
+2021-05-20 15:45:49,843 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-20 15:45:52,037 - Sauce Demo -INFO - ********** > User able to enter Username  < ***********
+2021-05-20 15:45:52,126 - Sauce Demo -INFO - ********** > User able to enter password  < ***********
+2021-05-20 15:45:52,197 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-20 15:45:52,259 - Sauce Demo -INFO - ********** > User able to take screenshot and verify the home page  < ***********
+2021-05-20 15:45:52,682 - Sauce Demo -INFO - ********** > User can verify logo  < ***********
+2021-05-20 15:45:53,368 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-20 15:45:54,724 - Sauce Demo -INFO - ********** > User can send Locked out username  < ***********
+2021-05-20 15:45:54,829 - Sauce Demo -INFO - ********** > User can send Locked out password  < ***********
+2021-05-20 15:45:54,912 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-20 15:45:54,939 - Sauce Demo -INFO - ********** > User gets error message and takes screenshot  < ***********
+2021-05-20 19:51:09,397 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-30 20:55:02,767 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-30 20:55:04,662 - Sauce Demo -INFO - ********** > User able to enter Username  < ***********
+2021-05-30 20:55:04,750 - Sauce Demo -INFO - ********** > User able to enter password  < ***********
+2021-05-30 20:55:04,822 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-30 20:55:04,884 - Sauce Demo -INFO - ********** > User able to take screenshot and verify the home page  < ***********
+2021-05-30 20:55:05,264 - Sauce Demo -INFO - ********** > User can verify logo  < ***********
+2021-05-30 20:55:05,902 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-30 20:55:07,321 - Sauce Demo -INFO - ********** > User can send Locked out username  < ***********
+2021-05-30 20:55:07,415 - Sauce Demo -INFO - ********** > User can send Locked out password  < ***********
+2021-05-30 20:55:07,494 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-30 20:55:07,513 - Sauce Demo -INFO - ********** > User gets error message and takes screenshot  < ***********
+2021-05-30 20:56:19,226 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-30 20:56:21,024 - Sauce Demo -INFO - ********** > User able to enter Username  < ***********
+2021-05-30 20:56:21,107 - Sauce Demo -INFO - ********** > User able to enter password  < ***********
+2021-05-30 20:56:21,182 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-30 20:56:21,249 - Sauce Demo -INFO - ********** > User able to take screenshot and verify the home page  < ***********
+2021-05-30 20:56:21,543 - Sauce Demo -INFO - ********** > User can verify logo  < ***********
+2021-05-30 20:56:22,230 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-05-30 20:56:23,576 - Sauce Demo -INFO - ********** > User can send Locked out username  < ***********
+2021-05-30 20:56:23,669 - Sauce Demo -INFO - ********** > User can send Locked out password  < ***********
+2021-05-30 20:56:23,739 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-05-30 20:56:23,753 - Sauce Demo -INFO - ********** > User gets error message and takes screenshot  < ***********
+2021-06-09 17:32:52,946 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-06-09 17:32:54,443 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-06-09 17:34:37,168 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-06-09 17:34:38,992 - Sauce Demo -INFO - ********** > User able to enter Username  < ***********
+2021-06-09 17:34:39,078 - Sauce Demo -INFO - ********** > User able to enter password  < ***********
+2021-06-09 17:34:39,149 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-06-09 17:34:39,203 - Sauce Demo -INFO - ********** > User able to take screenshot and verify the home page  < ***********
+2021-06-09 17:34:39,508 - Sauce Demo -INFO - ********** > User can verify logo  < ***********
+2021-06-09 17:34:40,174 - Sauce Demo -INFO - ********** > Test excuted with chrome browser  < ***********
+2021-06-09 17:34:41,497 - Sauce Demo -INFO - ********** > User can send Locked out username  < ***********
+2021-06-09 17:34:41,592 - Sauce Demo -INFO - ********** > User can send Locked out password  < ***********
+2021-06-09 17:34:41,661 - Sauce Demo -INFO - ********** > User able to click login  < ***********
+2021-06-09 17:34:41,676 - Sauce Demo -INFO - ********** > User gets error message and takes screenshot  < ***********

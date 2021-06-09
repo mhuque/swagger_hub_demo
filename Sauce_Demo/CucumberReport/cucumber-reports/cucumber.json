@@ -1,0 +1,250 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1487691400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.applicationStart()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Successful Login",
+        "description": "",
+        "id": "as-a-swag-labs-customer-who-is-not-locked-out,-i-need-to-be-able-to-log-in-so-that-i-can-purchase-sauce-labs-merch.;successful-login",
+        "after": [
+          {
+            "result": {
+              "duration": 619817800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 360870000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on the Sauce Demo Login Page",
+            "match": {
+              "location": "LoginStepDef.i_am_on_the_Sauce_Demo_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 88166300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I fill the account information for account Standard User \"standard_user\" into the Username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standard_user",
+                  "offset": 58
+                }
+              ],
+              "location": "LoginStepDef.i_fill_the_account_information_for_account_Standard_User_into_the_Username_field(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 71006100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I fill the password \"secret_sauce\" into the Password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secret_sauce",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginStepDef.i_fill_the_password_into_the_Password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 53565700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click the Login Button",
+            "match": {
+              "location": "LoginStepDef.i_click_the_Login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 304711000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I am redirected to the Sauce Demo Main Page",
+            "match": {
+              "location": "LoginStepDef.i_am_redirected_to_the_Sauce_Demo_Main_Page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 43489000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify the App Logo exists",
+            "match": {
+              "location": "LoginStepDef.i_verify_the_App_Logo_exists()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1143866100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.applicationStart()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Failed Login",
+        "description": "",
+        "id": "as-a-swag-labs-customer-who-is-not-locked-out,-i-need-to-be-able-to-log-in-so-that-i-can-purchase-sauce-labs-merch.;failed-login",
+        "after": [
+          {
+            "result": {
+              "duration": 602778400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 179355200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I am on the Sauce Demo Login Page",
+            "match": {
+              "location": "LoginStepDef.i_am_on_the_Sauce_Demo_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 94343500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I fill the account information for account LockedOutUser \"locked_out_user\" into the Username field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "locked_out_user",
+                  "offset": 58
+                }
+              ],
+              "location": "LoginStepDef.i_fill_the_account_information_for_account_LockedOutUser_into_the_Username_field(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 68290600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I fill the password \"secret_sauce\" the Password field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secret_sauce",
+                  "offset": 21
+                }
+              ],
+              "location": "LoginStepDef.i_fill_the_password_the_Password_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14908600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click the Login Button",
+            "match": {
+              "location": "LoginStepDef.i_click_the_Login_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164187600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I verify the Error Message contains the text \"Epic sadface: Sorry, this user has been locked out.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Epic sadface: Sorry, this user has been locked out.",
+                  "offset": 46
+                }
+              ],
+              "location": "LoginStepDef.i_verify_the_Error_Message_contains_the_text(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@sanity"
+          }
+        ]
+      }
+    ],
+    "name": "As a Swag Labs customer who is not locked out, I need to be able to log in so that I can purchase Sauce Labs merch.",
+    "description": "",
+    "id": "as-a-swag-labs-customer-who-is-not-locked-out,-i-need-to-be-able-to-log-in-so-that-i-can-purchase-sauce-labs-merch.",
+    "keyword": "Feature",
+    "uri": "Login.feature"
+  }
+]
